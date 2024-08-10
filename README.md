@@ -52,10 +52,6 @@ Here are some of the projects I've worked on:
 
 ## Education
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI2NGI1OWY0NGU5NmI3MWMwY2UxNmRjZmM3NmY5OWFiODNjNGExNw/3ov9jLsBqPh6rjuHuM/giphy.gif" alt="Animated GIF" width="200" height="200">
-</p>
-
 - **Degree:** Bachelor's Degree
 - **Field of Study:** Computer Science
 - **CGPA:** 3.76
@@ -63,4 +59,4 @@ Here are some of the projects I've worked on:
 
 ## Contact
 
-<p align="center"> <a href="mailto:senayalemneh1992@gmail.com"> Email </a> <a href="https://www.linkedin.com/in/senayalemneh/"> LinkedIn </a> <a href="https://github.com/Senayalemneh"> GitHub </a> </p>
+<p align="center"> <a href="mailto:senayalemneh1992@gmail.com">Email</a> </p> <p align="center"> <a href="https://www.linkedin.com/in/senayalemneh/">LinkedIn</a> </p> <p align="center"> <a href="https://github.com/Senayalemneh">GitHub</a> </p>
