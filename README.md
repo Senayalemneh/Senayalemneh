@@ -59,6 +59,29 @@ Here are some of the projects I've worked on:
 - **CGPA:** 3.76
 - **University:** Addis Ababa University
 
-## Contact
+## 📞 Contact
 
-<p align="center"> <a href="mailto:senayalemneh1992@gmail.com">Email</a> </p> <p align="center"> <a href="https://www.linkedin.com/in/senayalemneh/">LinkedIn</a> </p> <p align="center"> <a href="https://github.com/Senayalemneh">GitHub</a> </p>
+<p align="center">
+  <a href="mailto:senayalemneh1992@gmail.com" style="text-decoration: none;">
+    <img src="https://img.icons8.com/clouds/100/000000/email.png" alt="Email" width="50" height="50">
+    <br>
+    <span style="color: #2c3e50; font-size: 18px; font-weight: bold;">Email</span>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/senayalemneh/" style="text-decoration: none;">
+    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn" width="50" height="50">
+    <br>
+    <span style="color: #2c3e50; font-size: 18px; font-weight: bold;">LinkedIn</span>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Senayalemneh" style="text-decoration: none;">
+    <img src="https://img.icons8.com/clouds/100/000000/github.png" alt="GitHub" width="50" height="50">
+    <br>
+    <span style="color: #2c3e50; font-size: 18px; font-weight: bold;">GitHub</span>
+  </a>
+</p>
+
