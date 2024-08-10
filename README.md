@@ -1,33 +1,84 @@
-🌟 Senay Alemneh - Full-Stack Developer & Graphics Designer
-Hi there! 👋 I'm Senay Alemneh, a passionate Full-Stack Developer and Graphics Designer with a strong background in various modern web technologies. I'm currently working at Tria Trading Software Development PLC and am always excited to collaborate on innovative projects that push the boundaries of technology.
+# Senay Alemneh - Full-Stack Developer and Graphics Designer
 
-🎓 Education
-BSc in Computer Science, Graduated from Addis Ababa University
-CGPA: 3.76
-💻 Tech Stack
-Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React
-Backend: Node.js, Express, Next.js, NestJS
-Design: Graphics Design
-🛠️ Projects
-Kirkos Subcity Fullstack Website
-Developed a comprehensive full-stack website for Kirkos Subcity, enhancing user interaction and administrative functionalities.
-Kirkos Subcity Innovation Technology Development Bureau System
-Built a system for Kirkos Subcity Innovation Technology Development Bureau to streamline their operations and improve efficiency.
-Trade Office Bole Subcity Fullstack System
-Designed and implemented a full-stack system for the Trade Office in Bole Subcity, facilitating better management and service delivery.
-Bole Subcity Pointer System
-Created a pointer system for Bole Subcity to aid in navigation and resource allocation.
-Bright Thought NGO Website
-Developed an engaging and user-friendly website for the Bright Thought NGO, showcasing their initiatives and impact.
-Ethio Alert PLC Website
-Built a dynamic website for Ethio Alert PLC, providing a platform for communication and service updates.
-🌱 What I’m Currently Working On
-I'm currently focused on expanding my expertise in advanced JavaScript frameworks and exploring the latest trends in UI/UX design.
-📈 Professional Experience
-Full-Stack Developer & Graphics Designer at Tria Trading Software Development PLC.
-🚀 Passion for Technology
-Technology is more than just a job for me—it's a passion. I'm constantly exploring new tools, frameworks, and methodologies to improve my skills and deliver top-notch solutions.
-📫 Let's Connect!
-LinkedIn
-Twitter
-Portfolio
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVmZmY2ZmRmYWY0YmI1MjU1MjJhZmE1OTVkNWFhNTM2NWJlZDIxMQ/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated GIF" width="200" height="200">
+</p>
+
+## About Me
+
+I am a passionate and experienced Full-Stack Developer and Graphics Designer. I have a strong background in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Node.js, Express, Next.js, and NestJS. I am currently working at Tria Trading Software Development PLC, where I apply my skills to create innovative solutions.
+
+I recently graduated from Addis Ababa University with a stunning CGPA of 3.76, showcasing my academic excellence and dedication to my field.
+
+## Skills
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlkYzRjNGNkMmNjMDgyOTg1ZDcxYjllYjQzOTgyYmM4ZWY2NTBhMg/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Animated GIF" width="100" height="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5MjJjYjA0OTVkZTQzYzFjODlkZDlkNWU2ODFmNjhlYzhmOTZlMQ/XAxylRMCdpbEWUAvr8/giphy.gif" alt="Animated GIF" width="100" height="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZjYmEyYmRjM2FkMjUzNThhNTI1MDM5NTYxNTAxZGNmMjU1OTkwZA/PoymJQgQWAhfy/giphy.gif" alt="Animated GIF" width="100" height="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTYyYTkwZjYxOGJjNTQwOWFjMTFkMjUzNzg3YTdmZDlhOTEzNzg1OA/kdFc8fubgS31b8DsVe/giphy.gif" alt="Animated GIF" width="100" height="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZlNDIzNDIzZTRhOTU5OTYwZDk2M2I4NTU2ZDAxODhhYmIyYmY4ZA/XAxylRMCdpbEWUAvr8/giphy.gif" alt="Animated GIF" width="100" height="100">
+</p>
+
+- Front-end Development: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React
+- Back-end Development: Node.js, Express, Next.js, NestJS
+- Graphics Design: Proficient in various design tools and principles
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+<details>
+  <summary>Kikros Subcity Fullstack website</summary>
+  <p>A brief description of the project, including the technologies used and the role I played.</p>
+</details>
+
+<details>
+  <summary>Kikros Subcity Innovation technology Development bureua system</summary>
+  <p>A brief description of the project, including the technologies used and the role I played.</p>
+</details>
+
+<details>
+  <summary>Trade office Bole Subcity full stack system</summary>
+  <p>A brief description of the project, including the technologies used and the role I played.</p>
+</details>
+
+<details>
+  <summary>Bole subcity Pointer system</summary>
+  <p>A brief description of the project, including the technologies used and the role I played.</p>
+</details>
+
+<details>
+  <summary>Bright Thought NGO website</summary>
+  <p>A brief description of the project, including the technologies used and the role I played.</p>
+</details>
+
+<details>
+  <summary>Ethio Alert PLC website</summary>
+  <p>A brief description of the project, including the technologies used and the role I played.</p>
+</details>
+
+## Education
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI2NGI1OWY0NGU5NmI3MWMwY2UxNmRjZmM3NmY5OWFiODNjNGExNw/3ov9jLsBqPh6rjuHuM/giphy.gif" alt="Animated GIF" width="200" height="200">
+</p>
+
+- **Degree:** Bachelor's Degree
+- **Field of Study:** Computer Science
+- **CGPA:** 3.76
+- **University:** Addis Ababa University
+
+## Contact
+
+<p align="center">
+  <a href="mailto:senayalemneh1992@gmail.com">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk2NmJlMGYyNTM4MTY2NDdmZjkxYzNmOGJjZWE0OTNlMDhmMTcyNw/hvRXVlxwh40zK/giphy.gif" alt="Email" width="50" height="50">
+  </a>
+  <a href="https://www.linkedin.com/in/senayalemneh/">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E2NzQ1YTcwNTNlZTJjZDIwZThhYmY4YjRhNjVjY2I5NDRlYTNhOA/hvRXVlxwh40zK/giphy.gif" alt="LinkedIn" width="50" height="50">
+  </a>
+  <a href="https://github.com/Senayalemneh">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgwOThhZWQxZTM0MWE3YWM3NGFmNGE3ZTU4M2VkODJiMjU4NGUyZg/hvRXVlxwh40zK/giphy.gif" alt="GitHub" width="50" height="50">
+  </a>
+</p>
